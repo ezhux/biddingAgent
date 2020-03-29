@@ -9,7 +9,7 @@ sbt run
 
 Upon successful start, application generates 50 random Campaigns. You can query them using this URL:
 
-http://localhost:8080/campaign/<id>
+http://localhost:8080/campaign/1
 
 This will give you campaign details that you can use for testing.
 
